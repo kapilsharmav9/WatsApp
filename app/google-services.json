@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "220246444268",
+    "firebase_url": "https://watsapp-80d39.firebaseio.com",
+    "project_id": "watsapp-80d39",
+    "storage_bucket": "watsapp-80d39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220246444268:android:fd8c439e14c47f92f83dc9",
+        "android_client_info": {
+          "package_name": "mukul.watsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220246444268-ods92a02rij11il93uhsl9e5e2d0hdsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mukul.watsapp",
+            "certificate_hash": "b35cf23c74c9cda9e11b57127b25a333e2d421c8"
+          }
+        },
+        {
+          "client_id": "220246444268-gbnsld1t9f0s8g0u3kbnl9lvjgjek3oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnrWgrStYVZOG_7nQskBik1JNigpdQHqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220246444268-gbnsld1t9f0s8g0u3kbnl9lvjgjek3oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
